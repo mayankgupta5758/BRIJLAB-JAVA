@@ -1,1 +1,1 @@
-# BRIJLAB-JAVA
+# BridgeLabz-SIPP-Training
